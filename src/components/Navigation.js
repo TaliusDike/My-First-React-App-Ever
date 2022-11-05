@@ -23,7 +23,7 @@ const Navigation = () => {
         className="link-btn"
         to="/form"
       >
-        Form page
+        Form-page
       </NavLink>
     </section>
   );
