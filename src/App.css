@@ -6,6 +6,36 @@
   height: 40vmin;
   pointer-events: none;
 }
+.counter-container {
+  /* border: 2px red solid; */
+  /* margin: 0 auto; */
+  display: flex;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
+  gap: 10px;
+}
+
+
+.counter-label {
+  margin: 0 auto;
+  font-size: 300px;
+}
+
+
+
+.action-btn {
+  padding: 15px 55px;
+  border-radius: 10px;
+  margin: 0 auto ;
+  background-color: steelblue;
+  color: white;
+  font-size: larger;
+  text-transform: uppercase;
+}
+
+
+
+
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

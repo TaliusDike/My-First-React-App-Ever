@@ -11,3 +11,72 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.form-container {
+  max-width: 600px;
+  padding: 25px;
+  width: 100%;
+  margin: 0 auto;
+}
+
+.main-form-container {
+  background-color: black;
+  color: white;
+  padding: 50px;
+  text-align: center
+}
+
+.effect-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  /* background-color: chartreuse; */
+
+
+}
+
+.link-btn {
+  padding: 20px;
+  background-color: black;
+  margin-bottom: 10px;
+  color: white;
+  text-decoration: none;
+  margin: 10px;
+  border-radius: 10px;
+  max-width: 150px;
+}
+
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  gap: 20px ;
+}
+
+input {
+  border: none;
+  border-bottom: 1px solid #ccc;
+  padding: 10px;
+  margin-bottom: 10px;
+  width: 50%;
+}
+
+button {
+  background-color: #4caf50;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 10px 10px;
+  cursor: pointer;
+  /* max-width: 200px; */
+  width: 50%;
+}
