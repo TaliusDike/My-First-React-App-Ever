@@ -1,1 +1,1 @@
-Thanks to the good people at [AltSchool Africa] (https://altschoolafrica.com/), this was the first app I ever created when I started learning React JS in August 2022. It's been three months since the journey first began and I'm much better than when I first started.
+Thanks to the good people at [AltSchool Africa](https://altschoolafrica.com/), this was the first app I ever created when I started learning React JS in August 2022. It's been three months since the journey first began and I'm much better than when I first started.
